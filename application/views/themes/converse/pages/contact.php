@@ -35,7 +35,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
             </div>
             <div class="col-md-3 d-flex">
                 <div class="info bg-white p-4">
-                    <p><span>Website</span> www.converse.com</p>
+                    <p><span>Website</span> www.dyyvapor.com</p>
                 </div>
             </div>
         </div>
@@ -79,11 +79,9 @@ defined('BASEPATH') or exit('No direct script access allowed');
             <div class="col-md-6 d-flex">
 
                 <div style="width: 100%">
-                    <iframe width="100%" height="600"
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126646.20902684463!2d112.64264280250396!3d-7.27561407200986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fbf8381ac47f%3A0x3027a76e352be40!2sSurabaya%2C%20Kota%20SBY%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1669687153290!5m2!1sid!2sid"
-                        frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
-                        <a href="https://goo.gl/maps/wKX5EJtYqdx2o3A16">find my coordinates</a>
-                    </iframe>
+					<iframe width="100%" height="600"
+						src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.0933570108095!2d106.8243263758392!3d-6.381950493608408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ebf860e96983%3A0x335e535b40118894!2sMasjid%20Jami&#39;%20Al-Akhyar!5e0!3m2!1sid!2sid!4v1746493728502!5m2!1sid!2sid" 
+						style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>

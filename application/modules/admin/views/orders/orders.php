@@ -49,7 +49,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                 <tbody>
                   <?php foreach ($orders as $order) : ?>
                     <tr>
-                      <th scope="col">
+                      <th scope="col" style="visibility: hidden;">
                         <?php echo anchor('admin/orders/view/' . $order->id, '#' . $order->order_number); ?>
                       </th>
                       <td><?php echo $order->customer; ?></td>
