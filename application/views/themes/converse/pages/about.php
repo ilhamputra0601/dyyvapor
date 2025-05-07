@@ -19,14 +19,14 @@ defined('BASEPATH') or exit('No direct script access allowed');
         <div class="row">
             <div class="col-md-5 p-md-5 img img-2 d-flex justify-content-center align-items-center"
                 style="background-image: url(<?php echo get_theme_uri('images/about.jpg'); ?>);">
-                <a href="https://www.youtube.com/embed/JTHqmCg8EDU?list=TLPQMjgxMTIwMjLuz7OrZ5IwkQ"
+                <a href="https://www.youtube.com/watch?v=lsHwf_sv1cM"
                     class="icon popup-vimeo d-flex justify-content-center align-items-center title=" Converse All Stars"
                     frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen">
                     <span class="icon-play">
                         <!-- <iframe width="640" height="360"
-                            src="https://www.youtube.com/embed/JTHqmCg8EDU?list=TLPQMjgxMTIwMjLuz7OrZ5IwkQ"
+                            src="https://www.youtube.com/watch?v=lsHwf_sv1cM"
                             title="Converse All Stars" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe> -->
@@ -41,7 +41,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                 </div>
                 <div class="pb-md-5">
                     <p><?php echo get_settings('store_description'); ?></p>
-                    <p><a href="/ecommerce/#products" class="btn btn-primary">Belanja sekarang!</a></p>
+                    <p><a href="/#products" class="btn btn-primary">Belanja sekarang!</a></p>
                 </div>
             </div>
         </div>
