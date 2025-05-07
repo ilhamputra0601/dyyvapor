@@ -124,6 +124,8 @@ body {
   font-family: "Roboto", "Arial", "Helvetica Neue", sans-serif;
   font-weight: 400;
   font-size: 14px;
+	/* hamz */
+	background: url("../images/heading-register.jpg") center/cover no-repeat;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -161,9 +163,9 @@ h6 {
   background: #2c6ed5;
 }
 
-.bg-red {
+/* .bg-red {
   background: #fa4251;
-}
+} */
 
 /* ==========================================================================
    #SPACING
@@ -472,7 +474,7 @@ input {
 }
 
 .card-2 .card-heading {
-  background: url("../images/heading-register.jpg") top left/cover no-repeat;
+  background: url("../images/heading-register.jpg") center/cover no-repeat;
   width: 29.1%;
   display: table-cell;
 }
