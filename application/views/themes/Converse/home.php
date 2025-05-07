@@ -10,7 +10,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 				<div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
 
 					<div class="col-md-12 ftco-animate text-center">
-						<h1 class="mb-2">Kami Menjual liquid Dengan Bahan Terbaik</h1>
+						<h1 class="mb-2">Kami Menjual Vape dan Perlengkapan Lainnya</h1>
 						<h2 class="subheading mb-4">Rasakan Sensasi Vaping Premium dengan Liquid Berkualitasi</h2>
 						<p><a href="#products" class="btn btn-primary">Belanja Sekarang!</a></p>
 					</div>

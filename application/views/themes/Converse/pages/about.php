@@ -17,22 +17,28 @@ defined('BASEPATH') or exit('No direct script access allowed');
 <section class="ftco-section ftco-no-pb ftco-no-pt bg-light">
     <div class="container">
         <div class="row">
-            <div class="col-md-5 p-md-5 img img-2 d-flex justify-content-center align-items-center"
+			<div class="col-md-5 p-md-5 img img-2 d-flex justify-content-center align-items-center">
+			<iframe width="478" height="500" src="https://www.youtube.com/embed/z9mvs_NgxMw" title="7 Mei 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				</div>
+
+            <!-- <div class="col-md-5 p-md-5 img img-2 d-flex justify-content-center align-items-center"
                 style="background-image: url(<?php echo get_theme_uri('images/about.jpg'); ?>);">
-                <a href="https://www.youtube.com/watch?v=lsHwf_sv1cM"
+
+                <a href="https://youtube.com/z9mvs_NgxMw?si=sF-Vmk1QUshAHqGn"
                     class="icon popup-vimeo d-flex justify-content-center align-items-center title=" Converse All Stars"
                     frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen">
                     <span class="icon-play">
-                        <!-- <iframe width="640" height="360"
-                            src="https://www.youtube.com/watch?v=lsHwf_sv1cM"
+                        <iframe width="640" height="360"
+                            src="https://youtube.com/shorts/z9mvs_NgxMw?si=sF-Vmk1QUshAHqGn"
                             title="Converse All Stars" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe> -->
+                            allowfullscreen></iframe>
                     </span>
                 </a>
-            </div>
+            </div> -->
+
             <div class="col-md-7 py-5 wrap-about pb-md-5 ftco-animate">
                 <div class="heading-section-bold mb-4 mt-md-5">
                     <div class="ml-md-0">
